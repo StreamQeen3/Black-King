@@ -1,10 +1,9 @@
-//═════════[®SACHIBOT Inc.]═══════════//
-//                                            //
-//             𝙱𝚕𝚊𝚌𝚔𝙺𝚒𝚗𝚐 𝚋𝚢 𝚂𝚊𝚌𝚑𝚒𝙱𝚘𝚝      //
-//                                            //
-//                    𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙-𝙼𝙳 𝙱𝚘𝚝       //
-//                                            //
-//═════════════[© 2022]═════════════//
+//═══════════════════════════════════════════════════════//
+//
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//
+//════════════════════════════//
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -23,15 +22,15 @@ global.APIKeys = {
 global.owner = ['94725881990']
 global.premium = ['94725881990']
 global.ownernomer = '94725881990'
-global.ownername = 'Sachi Bot'
+global.ownername = 'Sachintha Fernando'
 global.botname = 'Black-King'
-global.footer = '©SachiBotInc.'
+global.footer = '©SACHIBOTInc.'
 global.ig = 'https://github.com/SACHIBOT'
-global.region = 'Sri Lanka, Western Province, Colombo'
+global.region = 'Sri-Lnaka, Western province, Colombo'
 global.sc = 'https://github.com/SACHIBOT/Black-King'
-global.myweb = 'https://github.com/SACHIBOT/'
+global.myweb = 'https://youtube.com'
 global.packname = 'Black-King'
-global.author = 'Sachi bot'
+global.author = 'Sachintha Fernando'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -60,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./BlackKingMedia/BlackKing.jpg')
+global.thumb = fs.readFileSync('./Black-KingMedia/Black-King.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='

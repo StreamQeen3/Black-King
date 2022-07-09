@@ -2,7 +2,7 @@
   "name": "Black-King",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/SACHIBOT/Black-King",
-  "logo": "https://github.com/SACHIBOT/SACHIBOT/blob/main/imgs/BlackKing.jpg?raw=true",
+  "logo": "https://telegra.ph/file/1cb4411cf1156ed50b050.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
