@@ -23,13 +23,13 @@ global.owner = ['94725881990']
 global.premium = ['94725881990']
 global.ownernomer = '94725881990'
 global.ownername = 'Sachintha Fernando'
-global.botname = 'Black-King'
+global.botname = 'black-King'
 global.footer = '©SACHIBOTInc.'
 global.ig = 'https://github.com/SACHIBOT'
-global.region = 'Sri-Lnaka, Western province, Colombo'
-global.sc = 'https://github.com/SACHIBOT/Black-King'
+global.region = 'India, South India, Kerala'
+global.sc = 'https://github.com/SACHIBOT/black-King'
 global.myweb = 'https://youtube.com'
-global.packname = 'Black-King'
+global.packname = 'black-King'
 global.author = 'Sachintha Fernando'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -59,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./Black-KingMedia/Black-King.jpg')
+global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
