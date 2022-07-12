@@ -1,10 +1,3 @@
-//═══════════════════════════════════════════════════════//
-//
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
-//
-//════════════════════════════//
-
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -22,17 +15,17 @@ global.APIKeys = {
 global.owner = ['94725881990']
 global.premium = ['94725881990']
 global.ownernomer = '94725881990'
-global.ownername = 'Sachintha Fernando'
-global.botname = 'black-King'
-global.footer = '©SACHIBOTInc.'
-global.ig = 'https://github.com/SACHIBOT'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/SACHIBOT/black-King'
-global.myweb = 'https://youtube.com'
-global.packname = 'black-King'
-global.author = 'Sachintha Fernando'
+global.ownername = 'SACHINTHA FDO'
+global.botname = 'KING WA BOT'
+global.footer = '</> POWER BY SACHINTHA FDO </>'
+global.ig = 'https://github.com/SACHIBOT/Black-King'
+global.region = 'Sri Lanka'
+global.sc = 'https://github.com/SACHIBOT/Black-King'
+global.myweb = 'https://www.youtube.com/channel/UC1-wONQE-85uzBX5JMdBxjw'
+global.packname = 'KING WA BOT'
+global.author = 'SACHINTHA FDO'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🌿','🔥','🎮']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
