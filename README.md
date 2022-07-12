@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/1cb4411cf1156ed50b050.jpg" alt="nz" width="350"/>
+<img src="https://raw.githubusercontent.com/SACHIBOT/Black-King/master/GojoMedia/logo.jpg" alt="nz" width="350"/>
 </p>
 <p align="center">
 black-King
