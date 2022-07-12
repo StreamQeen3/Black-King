@@ -3928,6 +3928,7 @@ case 'allmenu': {
  -------------------------
 ┃╠══🍒「 ISLAMIC 」🍒
 ┃╠${prefix}juzamma
+ -------------------------
 ┃╠══🍒「 HOROSCOPE 」🍒
 ┃╠${prefix}nomorhoki (indo)
 ┃╠${prefix}artimimpi (indo)
@@ -3960,7 +3961,7 @@ case 'allmenu': {
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
 ┃╚═══════✍︎© 𝘽𝙡𝙖𝙘𝙠-𝙆𝙞𝙣𝙜
-┗━「🍒 *Created By ${ownername}*  」 🍒`
+┗━「🍒 *${ownername}*  」 🍒`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
