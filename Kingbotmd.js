@@ -200,11 +200,11 @@ module.exports = KingmdWH = async (KingmdWH, m, chatUpdate, store) => {
 	
 	//group target \\
 const reply = (teks) => {
-            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/logo.jpg`),"sourceUrl": "https://raw.githubusercontent.com/SACHIBOT/Black-King/master/GojoMedia/logo.jpg"}}}, { quoted: m})
+            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/logo.jpg`),"sourceUrl": "https://telegra.ph/file/2d2e8a768415eb8c36a1b.jpg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/logo.jpg`),"sourceUrl": "https://raw.githubusercontent.com/SACHIBOT/Black-King/master/GojoMedia/logo.jpg"}}}, { quoted: m})
+            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/logo.jpg`),"sourceUrl": "https://telegra.ph/file/2d2e8a768415eb8c36a1b.jpg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
@@ -3711,7 +3711,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                KingmdWH.sendMessage(m.chat, { image: { url: 'https://raw.githubusercontent.com/SACHIBOT/Black-King/master/GojoMedia/logo.jpg' }, caption: `*Hi Bro ${m.pushName}*\ *Follow my github* https://www.github.com/SACHIBOT\n` }, { quoted: m })
+                KingmdWH.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/a4e3f274df00f988c6505.jpg' }, caption: `*Hi Bro ${m.pushName}*\ *Follow my github* https://www.github.com/SACHIBOT\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {

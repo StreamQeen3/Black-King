@@ -64,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SACHIBOT/Black-King"
+    "url": "git+https://github.com/SACHIBOT/Black-King.git"
   },
   "bugs": {
-    "url": "https://github.com/SACHIBOT/Black-King"
+    "url": "https://github.com/SACHIBOT/Black-King/issues"
   },
-  "homepage": "https://github.com/SACHIBOT/Black-King"
+  "homepage": "https://github.com/SACHIBOT/Black-King/#readme"
 }
