@@ -43,30 +43,31 @@ Add FFmpeg to PATH environment variable
 <b><font size="4">
  Start via Heroku </font></b>
 </div>
+<div align='center'>
 
 # `Scan QR Code For Session`
 
-<a href="https://replit.com/@SACHIBOT/M-D-SCANNER?v=1?outputonly=1&lite=1#index.js"><img title="BLACK-KING" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
-  <br><br><br>
-<div align='center'>
+<a href="https://replit.com/@SACHIBOT/M-D-SCANNER?v=1?outputonly=1&lite=1#index.js"><img title="BLACK-KING" src="https://repl.it/badge/github/quiec/whatsasena" width="200"></a>
+  <br><br>
 
  # `❗❗FORK THIS BEFORE PROCEEDING`
 
  `Use This Button To Fork Now`
 
-  <a href="https://github.com/SACHIBOT/Black-King/fork"><img title="BLACK-KING" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/SACHIBOT/Black-King/fork"><img title="BLACK-KING" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="100"></a>
 <br>
+
  # `Deploy In Heroku`
 
 
-<a href="https://heroku.com/deploy"><img title="BLACK-KING" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a><br>
+<a href="https://heroku.com/deploy"><img title="BLACK-KING" src="https://www.herokucdn.com/deploy/button.svg" width="200"></a><br>
 
-* Or copy this url and change GITHUBID with your github username and click GO <br>.
+* Or copy this url and change GITHUBID with your github username and click GO <br>
 
   ```
   https://heroku.com/deploy?template=https://github.com/GITHUBID/Black-King 
   ```
-
+</div>
   <br> <br>
 
 <div align="center">
@@ -118,33 +119,46 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 <div align="center"><b><font size="4">
 Available Features</div></font></b><br>
-	
-| Features |  Availability |
-| :------: |  :----------: |
-|   Convert     |       ✅     |
-|   Database     |       ✅     |
-|   Owner     |       ✅    |
-|   Islami     |       ✅     |
-|   Downloader     |       ✅     |
-|   Webzone     |       ✅      |
-|   Searching     |       ✅      |
-|   Textpro     |       ✅      |
-|   Ephoto     |       ✅     |
-|   Anime Web     |       ✅      |
-|   Stalker     |       ✅      |
-|   Random Text     |       ✅     |
-|   Random Image     |       ✅     |
-|   Nekos Life     |       ✅      |
-|   More Nsfw     |       ✅      |
-|   Creator     |       ✅      |
 
- 
+<style>table{border:1px solid black;
+}
+th, td {border:1px solid black;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+</style>
 
+<div align="center">
+
+<table>
+  <tr>
+    <th> Features </th>
+    <th> Availability </th>
+  </tr>
+<tr><td>Convert</td><td>✅</td></tr>
+<tr><td>Convert	</td><td>✅</td></tr>
+<tr><td>Database</td><td>	✅</td></tr>
+<tr><td>Owner	</td><td>✅</td></tr>
+<tr><td>Islami	</td><td>✅</td></tr>
+<tr><td>Downloader</td><td>	✅</td></tr>
+<tr><td>Webzone</td><td>	✅</td></tr>
+<tr><td>Searching </td><td>✅ </td></tr>
+<tr><td>Textpro </td><td> ✅</td></tr>
+<tr><td>Ephoto	</td><td>✅</td></tr><tr>
+<tr><td>Anime Web</td><td>	✅</td></tr>
+<tr><td>Stalker</td><td>	✅</td></tr>
+<tr><td>Random Text	</td><td>✅</td></tr>
+<tr><td>Random Image</td><td>	✅</td></tr>
+<tr><td>Nekos Life</td><td>	✅</td></tr>
+<tr><td>More Nsfw	</td><td>✅</td></tr>
+<tr><td>Creator</td><td>	✅</td></tr>
+</table>
+
+</div>
 
 ----
-
-<!-- Contact Owner -->
-<b> <summary>Contact 
+<div align="center"><b><font size="4">
+ Contact </font></b>
 
 ## ```Connect With Me```
 <p align="center">
@@ -152,12 +166,16 @@ Available Features</div></font></b><br>
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/Subscribe SACHIBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
- 
+ </div>
 
 
  <hr>
 
-## Thanks To
+<div align="center"><b><font size="5">
+ Thanks to </font></b>
+
+</div>
+
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Alien-Alfa`](https://github.com/Alien-Alfa)
 * [`DGXeon`](https://github.com/DGXeon)
