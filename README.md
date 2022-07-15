@@ -120,13 +120,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 <div align="center"><b><font size="4">
 Available Features</div></font></b><br>
 
-<style>table{border:1px solid black;
-}
-th, td {border:1px solid black;
-  padding-left: 50px;
-  padding-right: 50px;
-}
-</style>
+
 
 <div align="center">
 
