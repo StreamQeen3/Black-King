@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/SACHIBOT/Black-King/master/GojoMedia/logo.jpg" alt="nz" width="350"/>
+<img src="https://raw.githubusercontent.com/SACHIBOT/Black-King/master/KINGMedia/logo.jpg" alt="nz" width="350"/>
 </p>
 <p align="center">
 black-King
@@ -14,41 +14,49 @@ black-King
 
 
 </br>
-
-<a href="https://github.com/SACHIBOT"><img title="Author" src="https://img.shields.io/badge/Author-SACHIBOT-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<p align="center">
+<a href="https://github.com/SACHIBOT"><img title="Author" src="https://img.shields.io/badge/Author-SACHIBOT-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>
+<br>
 <a href="https://github.com/SACHIBOT/Black-King"><img title="Stars" src="https://img.shields.io/github/stars/SACHIBOT/Black-King?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/SACHIBOT/Black-King/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SACHIBOT/Black-King?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/SACHIBOT/Black-King/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SACHIBOT/Black-King?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
-<!-- Requirements -->
-<b><details><summary>Requirements</summary></b>
+<div align="center">
+<b><font size="4">Requirements </font></b>
+</div>
+
 * Some Text Editor
 * [Node JS](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFMPEG](https://ffmpeg.org/download.html)
+
   
 ```bash
 Add FFmpeg to PATH environment variable
 ```
-</details>
+ 
 
 
-<!-- Start via Heroku -->
-<b><details><summary>Start via Heroku</summary></b>
+<div align="center">
+<b><font size="4">
+ Start via Heroku </font></b>
+</div>
 
-* `Scan QR Code For Session`
+# `Scan QR Code For Session`
 
 <a href="https://replit.com/@SACHIBOT/M-D-SCANNER?v=1?outputonly=1&lite=1#index.js"><img title="BLACK-KING" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
-* `❗❗FORK THIS BEFORE PROCEEDING`
+<div align='center'>
+
+ # `❗❗FORK THIS BEFORE PROCEEDING`
 
  `Use This Button To Fork Now`
 
   <a href="https://github.com/SACHIBOT/Black-King/fork"><img title="BLACK-KING" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
-* `Deploy In Heroku`
+ # `Deploy In Heroku`
 
 
 <a href="https://heroku.com/deploy"><img title="BLACK-KING" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a><br>
@@ -61,14 +69,11 @@ Add FFmpeg to PATH environment variable
 
   <br> <br>
 
-<!---->
+<div align="center">
+<b><font size="4">
+ Installation on Termux 
+ </div></font></b><br>
 
-</details>
-
-
-
-<!-- Installation via Termux -->
-<b><details><summary>Installation on Termux</summary></b>
 ```bash
 > apt update
 > apt upgrade
@@ -84,34 +89,35 @@ Add FFmpeg to PATH environment variable
 > cd Black-King
 > npm install
 ```
-</details>
+ 
+<div align="center"><b><font size="4">
+ Edit settings.js</div></font></b><br>
 
-<!-- Edit -->
-<b><details><summary>Edit settings.js</summary></b>
 ```bash
 global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
+global.owner = ["94XXXXXX"]
 global.ownername = ["YourName"]
 ```
-</details>
 
 
-<!-- 24hrs-->
-<b><details><summary>For 24 Hours Activation</summary></b>
+
+<div align="center"><b><font size="4">
+ For 24 Hours Activation</div></font></b><br>
 
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
-</details>
+
 
 ----
 
 
-<b><details><summary>Available Features</summary><br>
+<div align="center"><b><font size="4">
+Available Features</div></font></b><br>
 	
 | Features |  Availability |
 | :------: |  :----------: |
@@ -120,7 +126,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 |   Owner     |       ✅    |
 |   Islami     |       ✅     |
 |   Downloader     |       ✅     |
-|   Webzone     |       ✅[      |
+|   Webzone     |       ✅      |
 |   Searching     |       ✅      |
 |   Textpro     |       ✅      |
 |   Ephoto     |       ✅     |
@@ -132,24 +138,24 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 |   More Nsfw     |       ✅      |
 |   Creator     |       ✅      |
 
-</details>
+ 
 
 
 ----
 
 <!-- Contact Owner -->
-<b><details><summary>Contact</summary></b>
+<b> <summary>Contact 
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94725881990"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/94725881990"><img src="https://img.shields.io/badge/Contact SACHIBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com"><img src="https://img.shields.io/badge/Subscribe SACHIBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
-</details>
+ 
 
 
-</details><hr>
+ <hr>
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
