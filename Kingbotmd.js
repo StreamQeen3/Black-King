@@ -200,11 +200,11 @@ module.exports = KingmdWH = async (KingmdWH, m, chatUpdate, store) => {
 	
 	//group target \\
 const reply = (teks) => {
-            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/logo.jpg`),"sourceUrl": "https://telegra.ph/file/2d2e8a768415eb8c36a1b.jpg"}}}, { quoted: m})
+            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./KINGMedia/logo.jpg`),"sourceUrl": "https://telegra.ph/file/2d2e8a768415eb8c36a1b.jpg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/logo.jpg`),"sourceUrl": "https://telegra.ph/file/2d2e8a768415eb8c36a1b.jpg"}}}, { quoted: m})
+            KingmdWH.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `𝐁𝐥𝐚𝐜𝐤-𝐊𝐢𝐧𝐠`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./KINGMedia/logo.jpg`),"sourceUrl": "https://telegra.ph/file/2d2e8a768415eb8c36a1b.jpg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
@@ -258,25 +258,25 @@ const reply = (teks) => {
         //auto reply 
         for (let anji of setik){
 				if (budy === anji){
-					result = fs.readFileSync(`./GojoMedia/sticker/${anji}.webp`)
+					result = fs.readFileSync(`./KINGMedia/sticker/${anji}.webp`)
 					KingmdWH.sendMessage(m.chat, { sticker: result }, { quoted: m })
 					}
 			}
 			for (let anju of vien){
 				if (budy === anju){
-					result = fs.readFileSync(`./GojoMedia/vn/${anju}.mp3`)
+					result = fs.readFileSync(`./KINGMedia/vn/${anju}.mp3`)
 					KingmdWH.sendMessage(m.chat, { audio: result, mimetype: 'audio/mp4', ptt: true }, { quoted: m })     
 					}
 			}
 			for (let anjh of imagi){
 				if (budy === anjh){
-					result = fs.readFileSync(`./GojoMedia/image/${anjh}.jpg`)
+					result = fs.readFileSync(`./KINGMedia/image/${anjh}.jpg`)
 					KingmdWH.sendMessage(m.chat, { image: result }, { quoted: m })
 					}
 			}
 					for (let anjh of videox){
 				if (budy === anjh){
-					result = fs.readFileSync(`./GojoMedia/vid/${anjh}.mp4`)
+					result = fs.readFileSync(`./KINGMedia/vid/${anjh}.mp4`)
 					KingmdWH.sendMessage(m.chat, { video: result }, { quoted: m })
 					}
 				  }
@@ -3967,7 +3967,7 @@ case 'allmenu': {
                         hydratedTemplate: {
                             hydratedContentText: anu,
                             locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./GojoMedia/logo.jpg')},
+                            jpegThumbnail: fs.readFileSync('./KINGMedia/logo.jpg')},
                             hydratedFooterText: `${pushname}`,
                             hydratedButtons: [{
                                 urlButton: {
